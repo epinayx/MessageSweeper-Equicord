@@ -1,18 +1,31 @@
-/*
- * MessageSweeper, an Equicord plugin
- * Copyright (c) 2026 epinay
- * SPDX-License-Identifier: GPL-3.0-or-later
- *
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program. If not, see <https://www.gnu.org/licenses/>.
- */
+MessageSweeper License
+
+Copyright (c) 2026 epinay (https://t.me/epinay)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated files (the "Software"), to use, copy, modify
+and share the Software, subject to the following conditions:
+
+1. Attribution. The copyright notice above and a link to
+   https://t.me/epinay must be kept in all copies and modified versions,
+   including in the plugin interface and README.
+
+2. No commercial use. The Software may not be sold, or included in any paid
+   product or service, without the prior written permission of the author.
+
+3. No misrepresentation. You may not claim the Software as your own work.
+   Modified versions must be clearly marked as modified.
+
+4. Responsible use. The Software deletes messages irreversibly. You are
+   solely responsible for how you use it, including any consequences for your
+   Discord account.
+
+5. Third-party components. This Software depends on Equicord, which is
+   licensed under its own terms (GPL-3.0). Nothing in this license overrides
+   the license of Equicord.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THE SOFTWARE.
